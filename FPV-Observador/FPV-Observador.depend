@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573516406 source:c:\users\feren\desktop\gráficas\fpv-observador\main.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
