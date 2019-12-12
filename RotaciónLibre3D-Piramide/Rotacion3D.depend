@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1569545011 source:c:\users\feren\desktop\rotacion3d\main.c
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+
+1569871777 source:c:\users\feren\desktop\rotacion3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Pyramid.h"
+
+1569871777 source:c:\users\feren\desktop\rotacion3d\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<math.h>
+
+1569870367 c:\users\feren\desktop\rotacion3d\matrix.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1569872154 source:c:\users\feren\desktop\rotacion3d\pyramid.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Pyramid.h"
+
+1569866001 c:\users\feren\desktop\rotacion3d\pyramid.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1570165100 source:c:\users\feren\desktop\rotlibre3d\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<math.h>
+
+1570149485 c:\users\feren\desktop\rotlibre3d\matrix.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1570165067 source:c:\users\feren\desktop\rotlibre3d\pyramid.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Pyramid.h"
+
+1570132060 c:\users\feren\desktop\rotlibre3d\pyramid.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Matrix.h"
+	"Operations.h"
+
+1570165100 source:c:\users\feren\desktop\rotlibre3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Pyramid.h"
+
+1570077066 source:c:\users\feren\desktop\rotlibre3d\operaciones.cpp
+	"Operaciones.h"
+	<stdio.h>
+	<math.h>
+
+1570067623 c:\users\feren\desktop\rotlibre3d\operaciones.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1570150675 c:\users\feren\desktop\rotlibre3d\operations.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1570164951 source:c:\users\feren\desktop\rotlibre3d\operations.cpp
+	"Operations.h"
+	<stdio.h>
+	<math.h>
+
+1570161500 source:c:\users\feren\desktop\gráficas\rotaciónlibre3d-piramide\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Pyramid.h"
+
+1570128460 c:\users\feren\desktop\gráficas\rotaciónlibre3d-piramide\pyramid.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Matrix.h"
+	"Operations.h"
+
+1570145885 c:\users\feren\desktop\gráficas\rotaciónlibre3d-piramide\matrix.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1570147075 c:\users\feren\desktop\gráficas\rotaciónlibre3d-piramide\operations.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1570404039 source:c:\users\feren\desktop\gráficas\rotaciónlibre3d-piramide\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<math.h>
+
+1570161351 source:c:\users\feren\desktop\gráficas\rotaciónlibre3d-piramide\operations.cpp
+	"Operations.h"
+	<stdio.h>
+	<math.h>
+
+1570161467 source:c:\users\feren\desktop\gráficas\rotaciónlibre3d-piramide\pyramid.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Pyramid.h"
+

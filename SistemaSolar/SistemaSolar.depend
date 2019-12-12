@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573369573 source:c:\users\feren\desktop\sistemasolar\main.c
+	<GL/glut.h>
+	<stdlib.h>
+

@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1569545011 source:c:\users\feren\desktop\rotacion3d\main.c
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+
+1569871777 source:c:\users\feren\desktop\rotacion3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Pyramid.h"
+
+1569871777 source:c:\users\feren\desktop\rotacion3d\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<math.h>
+
+1569870367 c:\users\feren\desktop\rotacion3d\matrix.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1569872154 source:c:\users\feren\desktop\rotacion3d\pyramid.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Pyramid.h"
+
+1569866001 c:\users\feren\desktop\rotacion3d\pyramid.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1570148513 source:c:\users\feren\desktop\gráficas\rotacion3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Pyramid.h"
+
+1569866001 c:\users\feren\desktop\gráficas\rotacion3d\pyramid.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1569870367 c:\users\feren\desktop\gráficas\rotacion3d\matrix.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1569871777 source:c:\users\feren\desktop\gráficas\rotacion3d\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<math.h>
+
+1569872154 source:c:\users\feren\desktop\gráficas\rotacion3d\pyramid.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Pyramid.h"
+

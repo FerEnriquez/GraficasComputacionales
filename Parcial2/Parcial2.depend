@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1572893321 source:c:\users\feren\desktop\parcial2\cube.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Cube.h"
+
+1572833534 source:c:\users\feren\desktop\parcial2\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<math.h>
+
+1572893564 source:c:\users\feren\desktop\parcial2\operation.cpp
+	"Operation.h"
+	<stdio.h>
+	<stack>
+	<math.h>
+
+1572893321 source:c:\users\feren\desktop\parcial2\pyramid.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+	"Pyramid.h"
+
+1572893140 c:\users\feren\desktop\parcial2\pyramid.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Operation.h"
+
+1572893321 source:c:\users\feren\desktop\parcial2\star.cpp
+	<GL/glut.h>
+	<stdio.h>
+	"Star.h"
+
+1571359280 source:c:\users\feren\desktop\parcial2\state.cpp
+
+1572893573 source:c:\users\feren\desktop\parcial2\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<GL/glut.h>
+	<math.h>
+	"Ship.h"
+	"Star.h"
+
+1572893154 c:\users\feren\desktop\parcial2\cube.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Operation.h"
+
+1572893321 c:\users\feren\desktop\parcial2\star.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Cube.h"
+	"Pyramid.h"
+
+1572892781 c:\users\feren\desktop\parcial2\matrix.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1572833932 c:\users\feren\desktop\parcial2\operation.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stack>
+	"Matrix.h"
+
+1572893321 c:\users\feren\desktop\parcial2\ship.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Cube.h"
+	"Pyramid.h"
+
+1572893321 source:c:\users\feren\desktop\parcial2\ship.cpp
+	<GL/glut.h>
+	<stdio.h>
+	"Ship.h"
+
