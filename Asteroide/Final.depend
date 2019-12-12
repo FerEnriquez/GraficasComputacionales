@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1575396447 source:c:\users\feren\desktop\final\fpvobserver.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"FPVObserver.h"
+
+1575862368 source:c:\users\feren\desktop\final\main.cpp
+	<GL/glut.h>
+	<GL/glext.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"SolarSystem.h"
+
+1575475828 c:\users\feren\desktop\final\solarsystem.h
+	<GL/glut.h>
+	<GL/glext.h>
+	<stdlib.h>
+
+1575396447 c:\users\feren\desktop\final\fpvobserver.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1281664910 c:\users\feren\desktop\final\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
+1575519064 source:c:\users\feren\desktop\final\asteroid.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"Asteroid.h"
+
+1575850458 source:c:\users\feren\desktop\final\solarsystem.cpp
+	<GL/glut.h>
+	<GL/glext.h>
+	<stdlib.h>
+	"SolarSystem.h"
+	"Asteroid.h"
+	"Planet.h"
+
+1575519041 c:\users\feren\desktop\final\asteroid.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1575574586 c:\users\feren\desktop\final\planet.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1575574686 source:c:\users\feren\desktop\final\planet.cpp
+	<GL/glut.h>
+	<stdio.h>
+	"Planet.h"
+
+1575519064 source:c:\users\feren\desktop\gráficas\final\asteroid.cpp
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	"Asteroid.h"
+
+1575519041 c:\users\feren\desktop\gráficas\final\asteroid.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1575862368 source:c:\users\feren\desktop\gráficas\final\main.cpp
+	<GL/glut.h>
+	<GL/glext.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"SolarSystem.h"
+
+1575475828 c:\users\feren\desktop\gráficas\final\solarsystem.h
+	<GL/glut.h>
+	<GL/glext.h>
+	<stdlib.h>
+
+1575574686 source:c:\users\feren\desktop\gráficas\final\planet.cpp
+	<GL/glut.h>
+	<stdio.h>
+	"Planet.h"
+
+1575574586 c:\users\feren\desktop\gráficas\final\planet.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1575850458 source:c:\users\feren\desktop\gráficas\final\solarsystem.cpp
+	<GL/glut.h>
+	<GL/glext.h>
+	<stdlib.h>
+	"SolarSystem.h"
+	"Asteroid.h"
+	"Planet.h"
+

@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1514144180 source:c:\users\feren\desktop\parcial1\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1568076449 source:c:\users\feren\desktop\parcial1\point.cpp
+	"Point.h"
+
+1568076353 c:\users\feren\desktop\parcial1\point.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1568835731 source:c:\users\feren\desktop\parcial1graficas\line.cpp
+	"Line.h"
+	<GL/glut.h>
+	<stdlib.h>
+
+1568835731 c:\users\feren\desktop\parcial1graficas\line.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Point.h"
+
+1568864430 c:\users\feren\desktop\parcial1graficas\point.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1568335743 source:c:\users\feren\desktop\parcial1graficas\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1568882541 source:c:\users\feren\desktop\parcial1graficas\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<math.h>
+
+1568864429 source:c:\users\feren\desktop\parcial1graficas\point.cpp
+	"Point.h"
+
+1568856688 c:\users\feren\desktop\parcial1graficas\matrix.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1568929538 source:c:\users\feren\desktop\parcial1graficas\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"Square.h"
+	"Triangle.h"
+	"Circle.h"
+
+1568867813 source:c:\users\feren\desktop\parcial1graficas\circle.cpp
+	"Circle.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1568883027 source:c:\users\feren\desktop\parcial1graficas\square.cpp
+	"Square.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1568883141 source:c:\users\feren\desktop\parcial1graficas\triangle.cpp
+	"Triangle.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1568869813 c:\users\feren\desktop\parcial1graficas\square.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Line.h"
+	"Matrix.h"
+	"Point.h"
+
+1568863261 c:\users\feren\desktop\parcial1graficas\triangle.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Line.h"
+	"Matrix.h"
+	"Point.h"
+
+1568866913 c:\users\feren\desktop\parcial1graficas\circle.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Point.h"
+	"Matrix.h"
+
+1568867813 source:c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\circle.cpp
+	"Circle.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1568866913 c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\circle.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Point.h"
+	"Matrix.h"
+
+1568864430 c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\point.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1568856688 c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\matrix.h
+	<GL/glut.h>
+	<stdlib.h>
+
+1568835731 source:c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\line.cpp
+	"Line.h"
+	<GL/glut.h>
+	<stdlib.h>
+
+1568835731 c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\line.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Point.h"
+
+1568929538 source:c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	"Square.h"
+	"Triangle.h"
+	"Circle.h"
+
+1568869813 c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\square.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Line.h"
+	"Matrix.h"
+	"Point.h"
+
+1568863261 c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\triangle.h
+	<GL/glut.h>
+	<stdlib.h>
+	"Line.h"
+	"Matrix.h"
+	"Point.h"
+
+1568882541 source:c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\matrix.cpp
+	"Matrix.h"
+	<stdio.h>
+	<math.h>
+
+1568864429 source:c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\point.cpp
+	"Point.h"
+
+1568883027 source:c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\square.cpp
+	"Square.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1568883141 source:c:\users\feren\desktop\gráficas\parcial1\parcial1graficas\triangle.cpp
+	"Triangle.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
