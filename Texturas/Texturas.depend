@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574725998 source:c:\users\feren\desktop\texturas\main.cpp
+	<GL/glut.h>
+	<GL/glext.h>
+	<stdlib.h>
+	<stdio.h>
+	"FreeImage.h"
+
+1281664910 c:\users\feren\desktop\texturas\freeimage.h
+	<wchar.h>
+	<inttypes.h>
+
